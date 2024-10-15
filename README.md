@@ -152,7 +152,9 @@ public class ConsumeTest {
 
 # kafka可视化工具使用
 ## 1. 软件安装
-[安装包位置](files/offsetexplorer)
+安装 Offset Explorer
+
+[安装包下载地址](https://kafkatool.com/download.html)
 ## 2. 新建kafka 连接
 <img src="images/kafka-offset-explorer.png" width="800">
 <img src="images/kafka-offset-explorer-config.png" width="800">
